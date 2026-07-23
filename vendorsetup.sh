@@ -75,8 +75,8 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
     # -- end R11 settings --
 
     # Maintainer Stuff
-    export OF_MAINTAINER="NATO66613"
-    export FOX_VERSION="R12.1_0-DSP-FBeV2-F2FSCompression"
+    export OF_MAINTAINER="Gojo"
+    export FOX_VERSION="KaliFox-R1.0-FBEv2"
 
     # run a process after formatting data to recreate /data/media/0
     export OF_FORCE_CREATE_DATA_MEDIA_ON_FORMAT=1
